@@ -4,9 +4,8 @@ A stock trade simulation program. With this applciaton the user can gain knowled
 
 * *Date Created*: 2022/05/01
 * *Last Modification Date*: 2022/07/20
-* *Backend Git URL*: https://git.cs.dal.ca/ugandhi/dtradeapi
-* *Frontend Git URL*: https://git.cs.dal.ca/qsun/csci5709-group23
-* *Deploy URL*: https://app-dtrade.herokuapp.com/
+* *Backend Git URL*: https://github.com/DharmaySureja/DTrade/tree/main/Back-End
+* *Frontend Git URL*: https://github.com/DharmaySureja/DTrade/tree/main/Front-End
 
 ## Authors
 
@@ -19,13 +18,6 @@ A stock trade simulation program. With this applciaton the user can gain knowled
 * [Dharmay Sureja](email@dal.ca) - *developer*
 
 
-
-## Getting Started
-
-Get frontend source code to local <br />
-git clone https://git.cs.dal.ca/qsun/csci5709-group23.git<br />
-get backend source code to local<br />
-git clone https://git.cs.dal.ca/ugandhi/dtradeapi.git
 
 
 ### Prerequisites
